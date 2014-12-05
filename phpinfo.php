@@ -2,4 +2,5 @@
 
 echo phpinfo();
 
+//develop·ÖÖ§
 ?>
